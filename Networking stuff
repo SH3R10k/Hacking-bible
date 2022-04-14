@@ -1,0 +1,6 @@
+<h1>https://www.malware-traffic-analysis.net/</h1>
+This blog focuses on network traffic related to malware infections, includes <b>Wireshark and Security Onion.</b>
+With downloadable examples for traffic analysis one needs to beware of the fact that there is real malware in the examples,
+hence I wouldn't recommend downloading the resources directly to your main machine.
+<b>[FOR BEGINNERS]</b> SOME OF THE <b>LABS MAY INCLUDE REAL MALWARE EXECUTABLES, so stick to the "PCAP" files for starters for your own safety.</b>
+
