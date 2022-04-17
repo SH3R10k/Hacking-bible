@@ -1,2 +1,27 @@
-https://app.cybrary.it/
-Cybrary is the best free resource when it comes to all-in-one learning solution.
+///////LEARNING HACKING:
+
+///THEORY:
+
+https://app.cybrary.it/                           /* Cybrary is the best free resource when it comes to all-in-one learning solutions.
+                                                     The course-based learning will give you all the information needed,
+                                                     there is a paid option too.                                                                  */
+
+///MORE OF A PRACTICAL SIDE OF LEARNING TO HACK:
+
+https://www.virtualhackinglabs.com/               /* [Paid] Probably the closest to the practical learning experience that prepares for the OSCP. */
+
+https://tryhackme.com/                            /* A lot of free practical learning material with an optional paid subscription.
+                                                     It is the most beginer friendly option out of all web-based hands-on hacking labs/games      */
+
+https://www.hackthebox.com/                       /* Similar to "tryhackme" but supposedly a little less novice-friendly. How ever the tagline of
+                                                     the service is "A massive hacking playground". It offers a lot of free learning exercises 
+                                                     and the subscription option is meant to be worth the money.                                  */
+
+https://www.vulnhub.com/                          /* Entirely free resource with downloadable Virtual Machines to practise with. It is less 
+                                                     beginner-friendly as there is no structure or tutorial to guide you through the process.
+                                                     Recommended to users with some prior knowledge of hacking and Virtualisation.                */
+                                                     
+https://pentesterlab.com/                         /* The service offers a free introductory BOOTCAMP that will introduce you to all the basics 
+                                                     that you need to get started with "INFOSEC". At first, the site looks like a great choice
+                                                     for a lost novice, yet the BOOTCAMP is mainly filled with links to WIKIPEDIA pages.
+                                                     Nothing innovative when it comes to the free offerring from pentesterlabs.                   */
